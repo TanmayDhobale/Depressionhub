@@ -1,4 +1,5 @@
-# 
-
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-# DepressionHUB_web
+<<<<<<< HEAD
+Your local changes here
+=======
+Remote changes here
+>>>>>>> FETCH_HEAD
