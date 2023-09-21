@@ -29,7 +29,7 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Join hands with others at DepressionHUB who know what you're going through right now. Together, we create a circle of understanding and support.",
   },
   {
     id: "feature-2",
