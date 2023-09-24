@@ -12,9 +12,7 @@ const Footer = () => (
           className="w-[266px] h-[72.14px] object-contain"
         />
         <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
-        Connecting Minds, 
-Healing
-souls.
+          A new way to make the payments easy, reliable and secure.
         </p>
       </div>
 

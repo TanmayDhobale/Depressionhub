@@ -29,21 +29,21 @@ export const features = [
     icon: star,
     title: "Anonymous Chat",
     content:
-    "Join hands with others at DepressionHUB who know what you're going through right now. Together, we create a circle of understanding and support." (),
+    "Join hands with others at DepressionHUB who know what you're going through right now. Together, we create a circle of understanding and support." ,
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% Trusted Therapist",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Where therapist Meets Mental Wellness! Our team of 100+ experts is revolutionizing mental health with affordable therapy starting at just 20 rupees.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Community",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+    "DepressionHUB Community Where We Come Together, Share Stories, and Grow Anonymously – Your Place for Support and Hope.",
   },
 ];
 
@@ -51,7 +51,7 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "DepressionHUB has been a lifeline for me. The therapists are compassionate and understanding, and the anonymous chat feature allowed me to open up like never before. This platform truly cares about its users' mental well-being",
     name: "Herman Jensen",
     title: "Founder & Leader",
     img: people01,
@@ -59,7 +59,7 @@ export const feedback = [
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+    "I can't thank DepressionHUB enough. The community here is incredibly supportive, and the therapists are top-notch. It's not just an app; it's a beacon of hope for those facing mental health challenges.",
     name: "Steve Mark",
     title: "Founder & Leader",
     img: people02,
@@ -67,7 +67,9 @@ export const feedback = [
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+    "DepressionHUB is more than an app; it's a lifesaver. The anonymous chats allowed me to reach out when I needed it most, and the therapists are true professionals. This platform is making a real difference."
+
+,
     name: "Kenn Gallagher",
     title: "Founder & Leader",
     img: people03,
@@ -82,13 +84,13 @@ export const stats = [
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Total Therapist",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Total Chat/Call Minutes",
+    value: "424 Min",
   },
 ];
 
@@ -172,12 +174,31 @@ export const socialMedia = [
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://twitter.com/Depression_hub0",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/depression-hub/",
+                   
   },
 ];
 
+export const clients = [
+  {
+    id: "client-1",
+    logo: airbnb,
+  },
+  {
+    id: "client-2",
+    logo: binance,
+  },
+  {
+    id: "client-3",
+    logo: coinbase,
+  },
+  {
+    id: "client-4",
+    logo: dropbox,
+  },
+];
