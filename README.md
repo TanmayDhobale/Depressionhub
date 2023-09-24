@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 #DepressionHUB
-=======
-# DepressionHUB_web
->>>>>>> origin/master
+
